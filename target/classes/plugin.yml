@@ -1,0 +1,21 @@
+name: ChestInv
+version: '1.0.2011'
+main: org.Elekt.chestInv.ChestInv
+api-version: '1.21'
+commands:
+  chestgui:
+    description: Chest GUI TEST
+    usage: /chestgui
+    permissions: op
+  enable_end:
+    description: Enables the End for everybody!
+    usage: /enable_end
+    permissions: op
+  enable_nether:
+    description: Enables the Nether for everybody!
+    usage: /enable_nether
+    permissions: op
+  opbook:
+    description: Control EVERYTHING!
+    usage: /opbook
+    permissions: op  
